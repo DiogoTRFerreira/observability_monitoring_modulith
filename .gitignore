@@ -1,0 +1,15 @@
+# Default ignored files
+shelf/
+
+# Ignorar toda a pasta .idea/ (configurações do IntelliJ)
+.idea/
+
+# Editor-based HTTP Client requests
+httpRequests/
+
+# Datasource local storage ignored files
+dataSources/
+dataSources.local.xml
+
+# Arquivos de módulos do IntelliJ IDEA
+*.iml
