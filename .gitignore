@@ -13,3 +13,4 @@ dataSources.local.xml
 
 # Arquivos de módulos do IntelliJ IDEA
 *.iml
+*.class
